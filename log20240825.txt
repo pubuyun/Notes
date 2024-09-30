@@ -1,0 +1,108 @@
+2024-08-25 23:53:21.256 +08:00 [WRN] Code action yay
+2024-08-25 23:53:21.547 +08:00 [WRN] hi
+2024-08-25 23:53:21.548 +08:00 [WRN] Sync Handler
+2024-08-25 23:53:21.551 +08:00 [WRN] hi
+2024-08-25 23:53:21.553 +08:00 [WRN] hi references
+2024-08-25 23:53:21.554 +08:00 [WRN] hi document highlight
+2024-08-25 23:53:21.554 +08:00 [WRN] hi document symbol
+2024-08-25 23:53:22.145 +08:00 [ERR] file:///c:/Users/wzhzhang/Documents/Notes/1.p not found
+2024-08-25 23:53:22.242 +08:00 [WRN] Codeactioning
+2024-08-25 23:54:44.931 +08:00 [WRN] Code action yay
+2024-08-25 23:54:45.214 +08:00 [WRN] hi
+2024-08-25 23:54:45.216 +08:00 [WRN] Sync Handler
+2024-08-25 23:54:45.226 +08:00 [WRN] hi
+2024-08-25 23:54:45.226 +08:00 [WRN] hi references
+2024-08-25 23:54:45.227 +08:00 [WRN] hi document highlight
+2024-08-25 23:54:45.228 +08:00 [WRN] hi document symbol
+2024-08-25 23:54:50.965 +08:00 [ERR] file:///c:/Users/wzhzhang/Documents/Notes/1.p not found
+2024-08-25 23:54:52.594 +08:00 [WRN] Codeactioning
+2024-08-25 23:54:52.762 +08:00 [WRN] Codeactioning
+2024-08-25 23:54:54.012 +08:00 [WRN] hover
+2024-08-25 23:54:54.409 +08:00 [WRN] hover
+2024-08-25 23:54:54.576 +08:00 [WRN] Codeactioning
+2024-08-25 23:54:55.455 +08:00 [WRN] Codeactioning
+2024-08-25 23:54:56.530 +08:00 [WRN] Codeactioning
+2024-08-25 23:54:57.125 +08:00 [WRN] hover
+2024-08-25 23:54:57.279 +08:00 [WRN] Codeactioning
+2024-08-25 23:55:50.215 +08:00 [WRN] Codeactioning
+2024-08-25 23:55:50.479 +08:00 [WRN] Codeactioning
+2024-08-25 23:55:51.201 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:15.558 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:15.803 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:28.783 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:28.998 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:31.188 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:31.327 +08:00 [WRN] Complete complete
+2024-08-25 23:56:31.569 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:32.257 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:32.934 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:33.728 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:34.389 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:35.428 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:35.899 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:36.601 +08:00 [WRN] Complete complete
+2024-08-25 23:56:36.862 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:37.464 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:39.695 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:40.572 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:40.877 +08:00 [WRN] Complete complete
+2024-08-25 23:56:41.130 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:42.168 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:42.719 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:42.904 +08:00 [WRN] Complete complete
+2024-08-25 23:56:43.170 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:43.637 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:44.808 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:45.429 +08:00 [WRN] Complete complete
+2024-08-25 23:56:45.686 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:46.211 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:46.696 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:47.091 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:47.839 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:48.517 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:51.387 +08:00 [WRN] hover
+2024-08-25 23:56:51.497 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:52.513 +08:00 [WRN] hover
+2024-08-25 23:56:52.591 +08:00 [WRN] Codeactioning
+2024-08-25 23:56:52.786 +08:00 [WRN] hover
+2024-08-25 23:56:53.533 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:20.150 +08:00 [WRN] Code action yay
+2024-08-25 23:57:20.490 +08:00 [WRN] hi
+2024-08-25 23:57:20.491 +08:00 [WRN] Sync Handler
+2024-08-25 23:57:20.494 +08:00 [WRN] hi
+2024-08-25 23:57:20.497 +08:00 [WRN] hi references
+2024-08-25 23:57:20.500 +08:00 [WRN] hi document highlight
+2024-08-25 23:57:20.501 +08:00 [WRN] hi document symbol
+2024-08-25 23:57:21.181 +08:00 [ERR] file:///c:/Users/wzhzhang/Documents/Notes/1.p not found
+2024-08-25 23:57:21.297 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:21.559 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:31.643 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:34.398 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:34.917 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:35.516 +08:00 [WRN] Complete complete
+2024-08-25 23:57:35.767 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:36.472 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:36.970 +08:00 [WRN] Complete complete
+2024-08-25 23:57:37.900 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:38.757 +08:00 [WRN] Complete complete
+2024-08-25 23:57:39.021 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:39.589 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:40.012 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:40.542 +08:00 [WRN] Complete complete
+2024-08-25 23:57:41.106 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:41.679 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:42.045 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:42.053 +08:00 [WRN] Complete complete
+2024-08-25 23:57:42.329 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:43.069 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:44.084 +08:00 [WRN] Complete complete
+2024-08-25 23:57:44.348 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:45.124 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:45.621 +08:00 [WRN] Complete complete
+2024-08-25 23:57:46.191 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:46.710 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:47.372 +08:00 [WRN] Complete complete
+2024-08-25 23:57:47.687 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:48.044 +08:00 [WRN] Codeactioning
+2024-08-25 23:57:48.484 +08:00 [WRN] Complete complete
+2024-08-25 23:57:48.745 +08:00 [WRN] Codeactioning
