@@ -1,33 +1,22 @@
 ## What is Cells?
-
 Building blocks of life
-
 **unicellular** only one cell
-
 **multicellular** many types of cells
-
 ## Facts
-
 All living thing are made up of cells
 Smallest working units
 ==come from preexisting cells through cell division== (细胞分裂)
 
 ## Prokaryotic and eukaryotes
-
 Nucleus (细胞核)
 ==EU== true/real
 ==PRO== original/pre-
 
 ## organelles and organism
-
 **organelles** is structure in cell and **organism** is made up of cells
-
 ## eukaryotes
-
 Contain organelles surrounded by membranes
-
 Animal and Plant Cells
-
 ## Structures
 
   **Cell Membrane** (细胞膜)

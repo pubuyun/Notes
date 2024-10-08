@@ -11,12 +11,7 @@
 > **Exo** (*going out of the system*)
 > **Endo** (*going into the system*)
 
-> [!NOTE]
-> **Nitrate** $NO_3^{\ -}$
-> **Hydroxide** $OH^-$
-> **Sulphate** $SO_4^{\ 2-}$
-> **Carbonate** $CO_3^{\ 2-}$
-> **Ammonium** $NH_4^+$
+
 
 > Thermal decomposition 热解
 > Electrolysis 电解
@@ -46,7 +41,7 @@
 | Gas      | No Fixed | no Fixed | Can        | - far apart<br>- move about rapidly in any direction              |
 $$ T(E_k) = P\cdot V$$
 
- $T$ = Temperature $P$ = Pressure $V$ = Volume
+ $T$ = Temperature                          $P$ = Pressure                          $V$ = Volume
 ## Diffusion
 *definition*: the movement of particles from a region of higher concentration to a region of lower concentration.
 $\text{Diffusion\ rate} \cdot \text{molecular\ mass} = k$

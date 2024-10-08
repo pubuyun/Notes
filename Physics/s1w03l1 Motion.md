@@ -27,6 +27,7 @@ $\text{gradient} = \text{velocity}$ in S-T graph
 *4*. $\text{speed} = \frac{\text{distance}}{\text{time}} = \frac{10\ m}{5\ s} = 2 \ m\cdot s^{-1}$
 *5*. the gradient is speed.
 
+![[Pasted image 20241008102724.png]]
 *1*. the velocity doesn't change, $a=0$
 *2*. a curve with decreasing gradient(negative).
 *3*. first increase with same gradient, then keeps steady
