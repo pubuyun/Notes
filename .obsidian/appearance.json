@@ -4,7 +4,9 @@
     "qol",
     "Sticky_Notes_v.3.7",
     "compact_tabs",
-    "snippets"
+    "snippets",
+    "sticky-notes"
   ],
-  "cssTheme": "Obsidian Nord"
+  "cssTheme": "Obsidian Nord",
+  "accentColor": "#66ccff"
 }

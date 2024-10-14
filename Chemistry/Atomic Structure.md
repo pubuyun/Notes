@@ -15,6 +15,9 @@
 > 
 
 ## Ion
+> [!def]
+> an atom or molecule with a net electric charge unequal to zero due to the loss or gain of one or more electrons
+
 *cations*: positive ions
 *anions*: negative ions, **-ide** in name.
 
@@ -32,7 +35,6 @@
 > **Chloride** $Cl^{-}$
 
 
-<iframe src="https://www.rsc.org/periodic-table" size="fill"> </iframe>
 
 *practice*: 
 [chemthink (simbucket.com)](https://simbucket.com/chemthinkserver/chemthink/index.html?as)

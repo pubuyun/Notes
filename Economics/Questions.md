@@ -60,5 +60,3 @@ d. education will improve the quantity of skilled labour, so the quality will be
 
 
 
-
-
