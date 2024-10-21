@@ -60,3 +60,13 @@ d. education will improve the quantity of skilled labour, so the quality will be
 
 
 
+“消费者选择”
+描述：5个摊位提供相似但不同的产品（替代品）。消费者以*抽象的化身*（纸船/人）出现，做出选择。 产品明显地摆在店铺门口，供消费者选择。
+主题：本作品关注消费者主权——消费者最终通过其购买决策塑造市场的想法。（需求影响价格，供应）
+
+
+
+
+The "Consumer Choice" model artwork represents two segments of the catering industry: drinks and restaurants. Five houses symbolize these substitute goods: a Chinese restaurant, a Western restaurant, a fast food chain (KEC), a milk tea shop, and a coffee shop. Consumers’ choices, driven by needs and preferences, influence prices through demand. For example, KFC's Thursday discount boosts customer numbers, showing how demand shapes prices.
+
+The artwork emphasizes that consumer freedom drives shifts in both prices and supply, as businesses adjust to maximize profits. This interplay highlights how consumer preferences are key to the market's price mechanism. There is supply-demand graphs out of the shops, where prices eventually align with the intersection of supply and demand. The piece illustrates how consumer choice shapes businesses and the broader market.

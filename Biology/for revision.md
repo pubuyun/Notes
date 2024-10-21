@@ -7,56 +7,60 @@
 --------------
 ### Chordata 有脊椎动物
 #### Fish
-- *scaly* skin (鳞片)
-- *gills* throughout life (鳃)
-- *fins* (鳍)
-- eggs are laid in water and have no shells
+- scaly skin
+- fins
+- *gills*
+- lay egg in water, no protection(*shell*)
 #### Amphibians (两栖动物)
-- *Metamorphosis* - tadpoles and adults (变态发育)
-- No *scales*
-- Eggs are laid in water and have no shells
-- *tadpoles*(蝌蚪) have gills; adults have lungs/skin to breath;
+- 变态发育 *Metamorphosis*
+- *no scales*(鳞片)
+- has lung, skin can assist breathing ( *tadpoles*(蝌蚪) have *gills*; *adults* have lungs/skin to breath;)
+- lay egg in water
+
 #### Reptiles (爬行动物)
-- *dry* scales
-- eggs *dry* scales
-- crawl/climb
+- 甲壳 *dry* scales
+- <del>has lung</del>
+- *crawl/climb*
+- lay egg on land, with protection(*shell*)
+
 #### Birds
-- *Feathers*
-- *wings* : most can fly
+- wings, most can fly
+- feather
+- lung, 气囊(*air sac*)
 - *beak*: adapted to food source
-- eggs with shells
+
 #### Mammals
-- *Fur/hair* (毛皮, 头发)
+- fur, hair(毛发)
+- 胎生 (*has uterus*)
+- *Different types of teeth*
 - *Mammary glands* (乳腺)
-- Different types of teeth
-- Yong is developed in *uterus.* (胎生)
 - *Diaphragm*, *pinna*, and *sweat glands.* (横膈膜 耳廓 汗腺)
 ----------------
 ### Arthropoda 节肢动物
-> - Invertebrates (not for all)
-> - **jointed legs**
-> - *waterproof **exoskeleton*** that supports their bodies
-> - **segmented body**
+- jointed legs
+- exoskeleton
+- segmented body
+
 #### Crustacean (甲壳纲)
 - hard shell
-- *aquatic*(水生) - gills
-- *claws*, more than 4 pairs of legs
-- examples include *lobsters, shrimps, crabs*
+- aquatic (have gills)
+- claws, *more than 4 pairs of legs*
 #### Myriapods (多足纲)
-- legs on **each** segment
-- flexible body in many segments
-- have *antennae* (触角)
+a pair of leg in each segment of body
+flexible body with many segments
+has antennae
+
 #### Arachnids  (蛛形纲)
-- 4 pairs of legs
-- segmented body - head and thorax(头, 胸)
-- more than one set of eyes
-- examples: *spiders, scorpions*
+4 pairs of legs
+more than 1 pair of eyes
+2 part of segmented body
+
 #### Insects (昆虫纲)
-- *3* pairs of *jointed legs*
-- *2* pairs of *wings*                                                                                                                                 (one or both may be vestigial^[a sturcture has evolved to be so small that it is no longer useful])
-- *1* pair of *antennae* (触角)
-- body is divided into head, thorax and abdomen (头，胸，腹)
-- some insects can live in very dry places
+3 pairs of legs
+2 pairs of wing
+1 pair of antennae
+
+
 -----------
 ### Fungi
 
@@ -64,7 +68,7 @@
 > - Contains cell wall, but made of *chitin*(甲壳素)
 > - Made of a network of *microscopic fibers*(纤维): a *mycelium of hyphae*
 > 	- made from many cells joined end to end
-> - Nutrition: **aprophytic***(腐生) - feed on decaying organic matter
+> - Nutrition: **saprophytic***(腐生) - feed on decaying organic matter
 > 	- No chlorophyll, so **no photosynthesis**
 > 	- ==Decomposers==: break down waste materials and dead organisms (分解者)
 > - Reproduction: ***spores***(孢子) - spread by wind or animals
@@ -110,7 +114,7 @@
 | leaf veins       | parrallel        | network             |
 | root             | branching root   | main root and other |
 
-## Protoctist (原生生物) 
+## Protoctist (原生生物)
 > - a mixed collection of organisms
 > 	- animal like cells and plant like cells
 > 	- mostly unicellular
@@ -128,10 +132,5 @@
 
 ## Virus (Not a kingdom)
 > *it was a debate whether viruses are living organisms or not*
-> Viruses have a ***protein coat*** and ***genetic material*** inside
+> Viruses have a protein coat and genetic material inside
 > **Acellular** (not a cell)
-
-## Adaptive Feature
-> [!def] 
-> Adaptive features are the inherited functional features of an organism that increase its fitness.
-

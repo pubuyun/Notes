@@ -1,12 +1,12 @@
 ## Gravity $g$
 
 > [!sticky | red s-90]
-> Gravity is not a force
+> Gravity is not a *force*, but a *acceleration*
 
 > [!sticky | aqua s-90]
-> Gravitational Force is a force 
+> Gravitational Force is a *force*. 
 
-> [!definition]
+> [!def]
 > *acceleration* - $m\cdot s^{-2}$
 > *gravitational field strength* - $N\cdot m^{-1}$
 
@@ -16,7 +16,20 @@
 > [!sticky | aqua- | transparent | s-95]
 > resultant force = 0
 
-## Newton's laws of motion
+
+## Reaction time and distance
+#### factors that affect reaction time
+- tiredness
+- alcohol/drug use
+- _any factor that may delay the interpretation of the driver of imminent danger_
+#### Factor that affect reaction distance
+- reaction time
+- velocity
+- *any factor that may affect time and force*
+
+## Results of force
+
+## Change in motion - Newton's laws of motion
 > [!def]
 > 1. A body remains at rest, or in motion at a constant speed in a straight line, except insofar as it is acted upon by a force.
 > 2. At any instant of time, the net force on a body is equal to the body's [acceleration](https://en.wikipedia.org/wiki/Acceleration "Acceleration") multiplied by its mass or, equivalently, the rate at which the body's [momentum](https://en.wikipedia.org/wiki/Momentum "Momentum") is changing with time.
@@ -29,17 +42,29 @@ _force must be_:
 - act in the same plane but opposite directions
 - act on different objects
 
-## Reaction time and distance
-#### factors that affect reaction time
-- tiredness
-- alcohol/drug use
-- _any factor that may delay the interpretation of the driver of imminent danger_
-#### Factor that affect reaction distance
-- reaction time
-- velocity
-- *any factor that may affect time and force*
+## Change in Shape
+### Elastic
+> [!def] 
+> you put a force on an object, making the object change shape, and it returns to its *original shape* after you remove the force
+### Hooke's Law
+> [!def]
+> A material resists with a *force* proportional to it *extension* before limit of proportionality
+> $$F=k\Delta x$$
+> where k is *stiffness* also *spring constant*
 
+![[Pasted image 20241015103729.png]]
+> Limit of proportionality - not proportional but still elastic
+> Elastic Limit - not elastic
 
+A *against*/*vs*/*-* B means *y*: A, *x*: B.
+$\text{gradient} = \frac{A}{B} = \frac{y}{x}$
+
+### Inelastic - Plastic
+
+| Elastic | Plastic   |
+| ------- | --------- |
+| spring  | any metal |
+| sponge  | rubber    |
 
 
 
@@ -78,4 +103,17 @@ _force must be_:
 4. $F_{R} = |F_{1}+F_{2}| = 5$
 5. east
 
+![[Pasted image 20241017081550.png]]
+1. $F=kx$
+2. elastic deformation means that the object return to its original shape when there is no more force, while inelastic deformation cannot
+3. 1, because A body remains at rest, or in motion at a constant speed in a straight line, except insofar as it is acted upon by a force.
+4. $k = 25 \ N\cdot m^{-1}$, $F = kx = 25\times 0.08 = 2\ N$
+5. $k = \frac{F}{x} = \frac{2}{0.11-0.06} = 40\ N\cdot m^{-1}$
+6. Because he uses the length instead of extension
 
+![[Pasted image 20241017083746.png]]
+1. *True*
+2. *B*
+3. when the line turns to a curve, which means they are not proportional
+4. spring constant $k$
+5. $E_{p} = \frac{1}{2}kx^2 = 25\cdot 0.1^2 = 0.25\ J$

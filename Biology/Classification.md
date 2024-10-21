@@ -21,7 +21,7 @@ Singular and Plural: *species*
 
 ### Binomial system
 how biologists name each species on Earth
-first name in the binomial is the name of· the **genus**. *Capital Letter*. (属名)
+first name in the binomial is the name of the **genus**. *Capital Letter*. (属名)
 second name is binomial is the name of the **species**. *Small Letter*. (种名)
 
 

@@ -1,7 +1,7 @@
 ## Particle Theory
 Everything is made of particles
 Particles are always randomly moving(Brownian motion) and have kinetic energy
-
+flaccid plasmolyzed animal swollen shrivelled
 ## Diffusion in Biology
 *Cell membrane* controls the movement of substances into and out of cell.
 One way of **passive** transport is diffusion
