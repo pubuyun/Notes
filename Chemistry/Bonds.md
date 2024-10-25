@@ -21,6 +21,7 @@ $$Mg^{2+} + O^{2-} \to MgO$$
 ## Covalent Bonding
 > [!def] **pairs** of electrons are **shared** between atoms
 
+
 - Only **non-metal** **elements** participate in covalent bonding
 - each atom gains a **full** **outer** **shell** of electrons
 - Covalently bonded substances may consist of small molecules or giant molecules

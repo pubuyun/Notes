@@ -41,6 +41,7 @@
 - hard shell
 - *aquatic*(水生) - gills
 - *claws*, more than 4 pairs of legs
+- *2* pairs of antennae
 - examples include *lobsters, shrimps, crabs*
 #### Myriapods (多足纲)
 - legs on **each** segment
@@ -58,26 +59,28 @@
 - body is divided into head, thorax and abdomen (头，胸，腹)
 - some insects can live in very dry places
 -----------
-### Fungi
+## Fungi
 
 > - Can be multicellular or unicellular
 > - Contains cell wall, but made of *chitin*(甲壳素)
-> - Made of a network of *microscopic fibers*(纤维): a *mycelium of hyphae*
+> - Made of a network of *microscopic fibers*(纤维): a *mycelium of **hyphae***
 > 	- made from many cells joined end to end
-> - Nutrition: **aprophytic***(腐生) - feed on decaying organic matter
+> - Nutrition: **saprophytic***(腐生) - feed on decaying organic matter
 > 	- No chlorophyll, so **no photosynthesis**
 > 	- ==Decomposers==: break down waste materials and dead organisms (分解者)
 > - Reproduction: ***spores***(孢子) - spread by wind or animals
+> - *A few types of fungi have structures comparable to bacterial plasmids (loops of DNA).*
 
 *yeast* : 酵母菌
 *mold*: 霉菌
 *penicillin*: 青霉素
 
 -----------
-### Plants
+## Plants
 
 > - contain ***chlorophyll***
 > - have a nucleus and cell walls are made of cellulose
+> - **multicellular**
 > - get nutrition from photosynthesis: autotroph
 #### Ferns (蕨类植物)
 - leaves of ferns are called *fronds*(叶状体)

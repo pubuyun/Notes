@@ -14,6 +14,24 @@ $\text{gradient} = \text{velocity}$ in S-T graph
 *Definition*: the *rate* at which an object increases speed or velocity
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![[Pasted image 20240903104236.png]]
 *1*: True
 *2*. velocity, acceleration

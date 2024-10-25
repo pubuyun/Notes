@@ -70,3 +70,40 @@ d. education will improve the quantity of skilled labour, so the quality will be
 The "Consumer Choice" model artwork represents two segments of the catering industry: drinks and restaurants. Five houses symbolize these substitute goods: a Chinese restaurant, a Western restaurant, a fast food chain (KEC), a milk tea shop, and a coffee shop. Consumers’ choices, driven by needs and preferences, influence prices through demand. For example, KFC's Thursday discount boosts customer numbers, showing how demand shapes prices.
 
 The artwork emphasizes that consumer freedom drives shifts in both prices and supply, as businesses adjust to maximize profits. This interplay highlights how consumer preferences are key to the market's price mechanism. There is supply-demand graphs out of the shops, where prices eventually align with the intersection of supply and demand. The piece illustrates how consumer choice shapes businesses and the broader market.
+
+gem install actionmailer -v 7.1.4.1 
+actionpack -v 7.1.4.1 \
+actionview -v 7.1.4.1 \
+activemodel -v 7.1.4.1 \
+activerecord -v 7.1.4.1 \
+activesupport -v 7.1.4.1 \
+railties -v 7.1.4.1 \
+sprockets -v 3.7.5 \
+excon -v 0.112.0 \
+css_parser -v 1.19.1 \
+oj -v 3.16.6 \
+thor -v 1.3.2 \
+highline -v 3.1.1 \
+rack -v 2.2.10 \
+net-imap -v 0.5.0 \
+uglifier -v 4.2.1 \
+puma -v 6.4.3 \
+ruby-readability -v 0.7.2 \
+memory_profiler -v 1.1.0 \
+faraday -v 2.12.0 \
+tzinfo-data -v 1.2024.2 \
+dry-initializer -v 3.1.1 \
+msgpack -v 1.7.3 \
+activejob -v 7.1.4.1 \
+i18n -v 1.14.6 \
+irb -v 1.14.1 \
+zeitwerk -v 2.7.0 \
+omniauth-oauth -v 1.2.1 \
+jwt -v 2.9.3 \
+reline -v 0.5.10 \
+rexml -v 3.3.8 \
+faraday-net_http -v 3.3.0 \
+logger -v 1.6.1 \
+uri -v 0.13.1 \
+webrick -v 1.8.2 \
+google-protobuf -v 4.28.2-x86_64-linux
