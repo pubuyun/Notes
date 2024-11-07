@@ -20,8 +20,7 @@ $$Mg^{2+} + O^{2-} \to MgO$$
 
 ## Covalent Bonding
 > [!def] **pairs** of electrons are **shared** between atoms
-
-
+> 
 - Only **non-metal** **elements** participate in covalent bonding
 - each atom gains a **full** **outer** **shell** of electrons
 - Covalently bonded substances may consist of small molecules or giant molecules
@@ -47,6 +46,16 @@ $H_{2} \ O_{2} \ Cl_{2}$ - *single bond*
     - strong electrostatic forces of attraction which needs lots of energy to be broken 
 - Metals are **good conductors of heat and electricity** 
     - The *delocalised* electrons are free to move and carry a charge through the whole structure 
-- Most metals are **malleable**
+- Most metals are **malleable**(opposite. *brittle*)
     - This means they can be hammered into shape
     - This is because the atoms are arranged in layers which can slide over each when force is applied
+
+
+| Ionic                                  | Simple (Covalent)                      | Giant (Covalent)                       | Metallic                         |
+| -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------- |
+| Metals and non-metals                  | Non-metals                             | Non-metals                             | Metals                           |
+| Loss and gain of electrons by atoms    | Share pairs of electrons between atoms | Share pairs of electrons between atoms | Outer electrons free to move     |
+| + and - ions formed attract each other | Small groups of atoms held together    | Billions of atoms are held together    | Billions of positive metal ions  |
+| Ionic lattice structure                | A molecular structure                  | Giant covalent lattice structure       | Giant metallic lattice structure |
+| Conduct when *melten*                  | Don't conduct                          | Don't conduct                          | *good* conductivity              |
+| High melting point                     | Low melting point                      | High melting point                     | High melting point               |

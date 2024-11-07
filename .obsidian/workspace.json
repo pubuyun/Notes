@@ -11,12 +11,14 @@
             "id": "b1e14854a7fcf7a7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Physics/Image/Pasted image 20241024084448.png"
+                "file": "Economics/PED.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241024084448"
+              "icon": "lucide-file",
+              "title": "PED"
             }
           },
           {
@@ -25,30 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/s1w09l1 Friction.md",
+                "file": "Computer Science/Review Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s1w09l1 Friction"
-            }
-          },
-          {
-            "id": "a005513ca1423fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/price.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "price"
+              "title": "Review Questions"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,55 +176,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a005513ca1423fd2",
+  "active": "b1e14854a7fcf7a7",
   "lastOpenFiles": [
-    "Pasted image 20241024154314.png",
-    "Pasted image 20241024154303.png",
-    "Pasted image 20241024154250.png",
-    "Pasted image 20241024154238.png",
     "Economics/Market Equilibrium.md",
-    "Economics/price.md",
-    "Economics/2.4 Supply.md",
-    "Biology/Enzymes.md",
-    "Biology/Features of organisms.md",
-    "Chemistry/Bonds.md",
-    "Chemistry/Matter.md",
-    "s1w10l2 Circular motion.md",
-    "Physics/s1w09l1 Friction.md",
-    "Physics/s1w02l2 Mass, Volume & Density.md",
-    "Physics/Image/Pasted image 20241022100918.png",
+    "Economics/PED.md",
+    "Economics/Price.md",
+    "Physics/s1w11l2 Momentum.md",
+    "Physics/s1w03l1 Motion.md",
+    "Physics/s1w10l2 Circular motion.md",
+    "Physics/Experiment.md",
     "Physics/Image/Pasted image 20241024084448.png",
     "Physics/s1w05l2 Force.md",
-    "Physics/s1w03l1 Motion.md",
-    "Computer Science/Definitions.md",
-    "Biology/Key Words.md",
-    "Biology/Classification.md",
-    "Biology/Biological molecules.md",
+    "Physics/s1w09l1 Friction.md",
+    "Physics/Image/Pasted image 20241017083746.png",
+    "Physics/Image/Pasted image 20241022100918.png",
+    "Physics/Image/asted image 20241024084448 1.png",
+    "Physics/s1w02l2 Mass, Volume & Density.md",
     "Mdmdt主题演示demo.md",
-    "Chemistry/PDF/Pasted image 20241017133343.png",
+    "Review Questions.pdf",
+    "Computer Science/Review Questions.md",
+    "Computer Science/PDLC, Algorism.md",
+    "Biology/Photosynthesis.md",
+    "math.md",
+    "Computer Science/Definitions.md",
+    "Mathematics/Significant figures.md",
+    "download.svg",
+    "Mathematics",
+    "Physics/s1w02l1 Measurement, s.f. , and Graph.md",
+    "Biology/Enzymes.md",
+    "Biology/Features of organisms.md",
+    "Biology/for revision.md",
+    "Chemistry/Bonds.md",
+    "Chemistry/Atomic Structure.md",
+    "English/Language and Structural Techniques Help Sheet.130685795 copy (1).pdf",
+    "Economics/2.2 Market System.md",
+    "Economics/1.1 Basic Economic problem.md",
+    "Economics/Images/Pasted image 20241024154238.png",
+    "Economics/Images/Pasted image 20241024154303.png",
+    "Economics/Images/Pasted image 20241024154250.png",
+    "Economics/Images/Pasted image 20241024154314.png",
+    "Computer Science/images/image_1.3e829d01.png",
+    "Computer Science/images",
+    "Computer Science/BFL&AFLS",
     "Week8 BFL.pdf",
     "Week8 AFL.pdf",
-    "Chemistry/PDF/Pasted image 20241017133841.png",
-    "Chemistry/PDF/Pasted image 20241017131846.png",
-    "math.md",
-    "ef72e16404ff0f3e5adf4a798e543c8.jpg",
-    "Economics/2.3 Demand.md",
-    "Economics/Questions.md",
-    "Chemistry/Atomic Structure.md",
-    "Biology/for revision.md",
-    "Chemistry/Untitled.md",
-    "Biology/Characteristics of Organism.md",
-    "Biology/Cells.md",
-    "Physics/Image/Pasted image 20241017083746.png",
-    "English/Language and Structural Techniques Help Sheet.130685795 copy (1).pdf",
     "Chemistry/PDF/3. TS (G1) Atomic structure and Periodic table STUDENTS.pdf",
     "Chemistry/PDF/OCT Holidays G1 Pack (1).pdf",
     "Biology/PDF/Diffusion.pdf",
-    "Biology/PDF/Biological molecules.pdf",
-    "index.html",
     "Untitled.canvas",
-    "Chemistry/PDF",
-    "Biology/Assesments",
     "Economics/Untitled.canvas"
   ]
 }

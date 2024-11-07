@@ -8,12 +8,21 @@
 ----------------------------
 > *All* metabolic reactions need enzymes.
 --------------
+ >**How it works**
+> Substrate fits into enzyme
+> _active site_
+> ref. shape of molecules *complementary*
+> *lock and key*
+> substrate&water close together within enzyme
+> *product* produced, enzyme unchanged
+> lower *activation energy*
+
 ### Names
 > Starch *amylase*
 > Protein *protease*
 > Lipid *lipase*
 > Maltase *maltase*
-> Sucrose *sucrase*
+> Sucrose *sucrase*w
 
 **-ase**
 
@@ -46,8 +55,6 @@ reactant                                                                     pro
 
 *Enzymes lower the activation energy* of a reaction, so reactions can take place at lower temperatures.
 
-At low temp, molecules have low kinetic energy and move slowly, less collision happens, so slower rate of reaction
-
 
 ## Factors affecting enzyme rates
 - Temperature
@@ -66,5 +73,7 @@ All enzymes has a *optimum temperature/pH*,
 
 > lose its shape
 > denatured
-> active site is no longer complementary
-> enzyme-substrate complexes cannot for
+> active site is *no longer complementary*
+> enzyme-substrate complexes cannot form
+
+	

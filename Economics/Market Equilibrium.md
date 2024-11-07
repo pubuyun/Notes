@@ -9,10 +9,11 @@
 > [!def] Market Disequilibrium
 > At the given *price*, *demand* does not equal to *supply*
 
-> [!def] Excess demand
+> [!def] Excess demand/**Shortage**
 > At the given price, more quantity is demanded than is supplied
 
-> [!def] Excess supply
+> [!def] Excess supply/**Surplus**
 > At the given price, more quantity is supplied than is demanded
+
 
 
