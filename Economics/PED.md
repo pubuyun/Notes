@@ -20,7 +20,7 @@ $$\%\text{change in price} = \frac{\text{change in price}}{\text{original price}
 > How ***responsive*** consumer demand is to a change in price, and therefore how revenues may respond following a change in price
 
 > [!def] Price elastic
-> A product will be *price elastic* if $\ \text{PED} > 1$
+> A product will be *price elastic* if $\ \text{PED} < -1$
 ### Example
 Old fare *$2*, number of passengers *50*, total revenue $125
 New fare *$2.5*, number of passengers *30*, total revenue $100
@@ -28,3 +28,9 @@ $$\%\text{change in price} = \frac{\$0.5}{\$2.00} = 25\%$$
 $$\%\text{change in passenger numbers} = \frac{20}{50} = 40\%$$
 $$\text{PED} = \frac{40\%}{25\%} = 1.6 > 1$$
 
+
+
+-0.5, -1.25, -1
+-0.5, -2.5, -0.5
+PED = -1, 
+1.25

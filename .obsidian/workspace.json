@@ -158,13 +158,23 @@
               "icon": "lucide-list",
               "title": "Outline of Key Words"
             }
+          },
+          {
+            "id": "bf28dcf20e99dd1e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,14 +183,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b1e14854a7fcf7a7",
   "lastOpenFiles": [
-    "Economics/Market Equilibrium.md",
-    "Economics/PED.md",
     "Economics/Price.md",
+    "Biology/Biological molecules.md",
+    "Biological molecules.pdf",
+    "Biology/Characteristics of Organism.md",
+    "Economics/1.1 Basic Economic problem.md",
+    "Biology/Assesment2.md",
+    "Biology/Enzymes.md",
+    "Biology/Drawing.md",
+    "Biology/Photosynthesis.md",
+    "English/Arguing.md",
+    "Economics/PED.md",
+    "Economics/Questions.md",
+    "Mathematics/Significant figures.md",
+    "Economics/Market Equilibrium.md",
     "Physics/s1w11l2 Momentum.md",
     "Physics/s1w03l1 Motion.md",
     "Physics/s1w10l2 Circular motion.md",
@@ -196,21 +219,11 @@
     "Review Questions.pdf",
     "Computer Science/Review Questions.md",
     "Computer Science/PDLC, Algorism.md",
-    "Biology/Photosynthesis.md",
     "math.md",
     "Computer Science/Definitions.md",
-    "Mathematics/Significant figures.md",
     "download.svg",
     "Mathematics",
-    "Physics/s1w02l1 Measurement, s.f. , and Graph.md",
-    "Biology/Enzymes.md",
-    "Biology/Features of organisms.md",
-    "Biology/for revision.md",
-    "Chemistry/Bonds.md",
-    "Chemistry/Atomic Structure.md",
     "English/Language and Structural Techniques Help Sheet.130685795 copy (1).pdf",
-    "Economics/2.2 Market System.md",
-    "Economics/1.1 Basic Economic problem.md",
     "Economics/Images/Pasted image 20241024154238.png",
     "Economics/Images/Pasted image 20241024154303.png",
     "Economics/Images/Pasted image 20241024154250.png",
@@ -222,7 +235,6 @@
     "Week8 AFL.pdf",
     "Chemistry/PDF/3. TS (G1) Atomic structure and Periodic table STUDENTS.pdf",
     "Chemistry/PDF/OCT Holidays G1 Pack (1).pdf",
-    "Biology/PDF/Diffusion.pdf",
     "Untitled.canvas",
     "Economics/Untitled.canvas"
   ]
