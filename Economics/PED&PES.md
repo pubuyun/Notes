@@ -27,10 +27,28 @@ New fare *$2.5*, number of passengers *30*, total revenue $100
 $$\%\text{change in price} = \frac{\$0.5}{\$2.00} = 25\%$$
 $$\%\text{change in passenger numbers} = \frac{20}{50} = 40\%$$
 $$\text{PED} = \frac{40\%}{25\%} = 1.6 > 1$$
+## PES (Price Elasticity of Demand)
 
+$$\text{PES} = \frac{\%\text{change in quantity supplied}}{\%\text{change in price}} = \frac{\Delta Q_{s}}{\Delta P}\times \frac{P_{0}}{Q_{s0}}$$
+$$\%\text{change in quantity supplied} = \frac{\text{change in quantity}}{\text{original quantity}} \times \frac{1}{100}$$
+$$\%\text{change in price} = \frac{\text{change in price}}{\text{original price}} \times \frac{1}{100}$$
+> [!def] 
+> How ***responsive*** supply is to a change in price, and therefore how revenues may respond following a change in price
 
+> [!def] Price elastic
+> A product will be *price elastic* if $\ \text{PES} > 1$
+### What affects PES
+#### Time
+> [!def] short run
+> An amount of time that is less than the time needed for a firm to be able to *expand* and increase all the *FOP*.
 
--0.5, -1.25, -1
--0.5, -2.5, -0.5
-PED = -1, 
-1.25
+#### Availability of resources
+> [!def] Price inelastic
+> if the economy is using most of its resources
+
+> [!def] Price elastic
+> large supply of unused or unemployed resources
+
+#### Stock
+> If it's hard to store, suppliers can't increase supply in short run. 
+

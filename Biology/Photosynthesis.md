@@ -28,3 +28,18 @@ $6CO_{2} +6H_{2}O\xrightarrow{\text{Light + Chloroplyll}}\ 6O_{2}+C_{6}H_{12}O_{
 #### Chlorophyll
 > **not** a protein, but contains $N$, $Mg$
 > *nitrate* ions $NO_{3}^-$ and *magnesium ions* $Mg^+$ are also essential.
+
+## Factors affecting rate
+> [!def] Limiting Factor
+> A factor that is in *short supply*, which **stops** an activity happing at a faster rate
+
+> If all resources are abundant and unlimited, the limiting factor will be the ability to photosynthesis and absorb materials.
+> But most times, other factors are limiting factors
+
+
+### Light
+![[Pasted image 20241113103448.png]]
+### CO2
+![[Pasted image 20241113103724.png]]
+### Temperature
+![[Pasted image 20241113104243.png]]

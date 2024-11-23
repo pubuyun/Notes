@@ -32,8 +32,7 @@
 > wear closed toe shoes
 
 ## Conclusion
-> **Compare the data from diameter of the ball and depth of the hole**, and see how they relate
-
+> **By comparing the data from the table** if the range changes with the angle then I can *conclude* that the [D.V.] changes with [I.V.]
 
 
 

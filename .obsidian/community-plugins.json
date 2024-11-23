@@ -4,5 +4,8 @@
   "custom-classes",
   "obsidian-html-plugin",
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "oz-clear-unused-images",
+  "obsidian-image-toolkit",
+  "obsidian-tikzjax"
 ]

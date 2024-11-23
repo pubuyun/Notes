@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c74c1499852cd18e",
+        "id": "8a94f07c8f76a6d7",
         "type": "tabs",
         "children": [
           {
-            "id": "b1e14854a7fcf7a7",
+            "id": "d87e33dc14b2b631",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/PED.md",
+                "file": "Biology/Plant Transport.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PED"
+              "title": "Plant Transport"
             }
           },
           {
-            "id": "b5e05e9955194604",
+            "id": "c13dea4bd4e70750",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Review Questions.md",
+                "file": "Physics/Work&Energy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Review Questions"
+              "title": "Work&Energy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "drawing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,57 +186,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1e14854a7fcf7a7",
+  "active": "c13dea4bd4e70750",
   "lastOpenFiles": [
-    "Economics/Price.md",
-    "Biology/Biological molecules.md",
-    "Biological molecules.pdf",
-    "Biology/Characteristics of Organism.md",
-    "Economics/1.1 Basic Economic problem.md",
-    "Biology/Assesment2.md",
-    "Biology/Enzymes.md",
-    "Biology/Drawing.md",
-    "Biology/Photosynthesis.md",
-    "English/Arguing.md",
-    "Economics/PED.md",
-    "Economics/Questions.md",
-    "Mathematics/Significant figures.md",
+    "Physics/Untitled.md",
+    "语文/史记.md",
+    "Untitled.md",
+    "语文",
+    "Economics/PED&PES.md",
     "Economics/Market Equilibrium.md",
-    "Physics/s1w11l2 Momentum.md",
-    "Physics/s1w03l1 Motion.md",
-    "Physics/s1w10l2 Circular motion.md",
-    "Physics/Experiment.md",
-    "Physics/Image/Pasted image 20241024084448.png",
-    "Physics/s1w05l2 Force.md",
-    "Physics/s1w09l1 Friction.md",
-    "Physics/Image/Pasted image 20241017083746.png",
-    "Physics/Image/Pasted image 20241022100918.png",
-    "Physics/Image/asted image 20241024084448 1.png",
-    "Physics/s1w02l2 Mass, Volume & Density.md",
-    "Mdmdt主题演示demo.md",
-    "Review Questions.pdf",
+    "Economics/Price.md",
+    "Transpiration.md",
+    "Biology/Plant Transport.md",
+    "Biology/Biological molecules.md",
+    "Chemistry/Seperation.md",
+    "Physics/Work&Energy.md",
+    "Physics/Image/Pasted image 20241112104604.png",
+    "Biology/Cells images/Pasted image 20241113104243.png",
+    "Assessment 4.md",
+    "Biological molecules.pdf",
+    "Biology/Cells images/Pasted image 20241120105157.png",
+    "Biology/Cells images/Pasted image 20241120103359.png",
+    "Biology/Cells images/Pasted image 20241120103055.png",
+    "Biology/Cells images/Pasted image 20241120103040.png",
+    "Biology/Cells images/Pasted image 20241120101844.png",
+    "Biology/Cells images/Pasted image 20241120100332.png",
+    "Chemistry/PDF/Pasted image 20241118090250.png",
+    "Chemistry/PDF/Pasted image 20241118085232.png",
     "Computer Science/Review Questions.md",
     "Computer Science/PDLC, Algorism.md",
-    "math.md",
     "Computer Science/Definitions.md",
-    "download.svg",
+    "Biology/Leaf Structure.md",
+    "Biology/Cells.md",
+    "Biology/Key Words.md",
+    "Biology/Drawing.md",
+    "Biology/Enzymes.md",
+    "Biology/Features of organisms.md",
+    "Biology/for revision.md",
+    "Biology/Photosynthesis.md",
+    "Economics/Economic Systems.md",
+    "Mathematics/temp.md",
+    "math.md",
+    "Excalidraw",
+    "Review Questions.pdf",
     "Mathematics",
     "English/Language and Structural Techniques Help Sheet.130685795 copy (1).pdf",
-    "Economics/Images/Pasted image 20241024154238.png",
-    "Economics/Images/Pasted image 20241024154303.png",
-    "Economics/Images/Pasted image 20241024154250.png",
-    "Economics/Images/Pasted image 20241024154314.png",
-    "Computer Science/images/image_1.3e829d01.png",
     "Computer Science/images",
     "Computer Science/BFL&AFLS",
     "Week8 BFL.pdf",
     "Week8 AFL.pdf",
-    "Chemistry/PDF/3. TS (G1) Atomic structure and Periodic table STUDENTS.pdf",
-    "Chemistry/PDF/OCT Holidays G1 Pack (1).pdf",
     "Untitled.canvas",
     "Economics/Untitled.canvas"
   ]
