@@ -1,3 +1,16 @@
+---
+title: s1w03l1 Motion
+slug: s1w03l1-motion
+cover: ""
+categories:
+  - Physics
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: ce83781c-e386-4cac-a9b1-e0bc065c8733
+  publish: true
+---
 ## Speed and Velocity
 *Speed*: does not depend on *direction*
 *Velocity*: the *speed* and *direction*.

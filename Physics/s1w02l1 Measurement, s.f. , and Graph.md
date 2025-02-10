@@ -1,3 +1,16 @@
+---
+title: s1w02l1 Measurement, s.f. , and Graph
+slug: s1w02l1-measurement-s.f.-and-graph
+cover: ""
+categories:
+  - Physics
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 9e0145e2-2878-4cf2-830c-f68b1f354ba8
+  publish: true
+---
 ## Measurement
 
 > **instrument** -> decimal point -> accuracy, not s.n.
@@ -26,7 +39,7 @@
 
 
 
-![[Pasted image 20240827095657.png]]*1*. find two points(x1,y1), (x2,y2) and calculate it using the formula: $$ gradient=\frac{y2-y1}{x2-x1} $$
+![Pasted image 20240827095657](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/Pasted%20image%2020240827095657.png)*1*. find two points(x1,y1), (x2,y2) and calculate it using the formula: $$ gradient=\frac{y2-y1}{x2-x1} $$
 *2*. draw the tangent of the curve on that point and calculate the gradient of the line.
 *3*. B is proportional to a
 *4*. False

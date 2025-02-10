@@ -1,3 +1,16 @@
+---
+title: Definitions
+slug: definitions
+cover: ""
+categories:
+  - Computer Science
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 4cc9a709-e6fb-4950-8fb4-39d90665bf16
+  publish: true
+---
 ## Datatype
 ### Constant
 **constant** is a **named piece of memory** where the value cannot be changed while a **program runs**

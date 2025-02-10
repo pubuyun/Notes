@@ -7,5 +7,8 @@
   "obsidian-excalidraw-plugin",
   "oz-clear-unused-images",
   "obsidian-image-toolkit",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "remotely-save",
+  "obsidian-image-auto-upload-plugin",
+  "halo"
 ]

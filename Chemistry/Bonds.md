@@ -1,3 +1,16 @@
+---
+title: Bonds
+slug: bonds
+cover: ""
+categories:
+  - Chemistry
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 80c76b8d-5405-4aab-9107-e7ff58503b9f
+  publish: true
+---
 ## Ionic bonding
 > [!def] *metal* atoms react with *non-metal* atoms
 
@@ -11,7 +24,7 @@ $$Mg^{2+} + O^{2-} \to MgO$$
 ### Lattice structure
 - Ionic compounds have a **giant lattice** structure (**no molecule** because it has no units)
 - the atoms are arranged in an **ordered** and **repeating** fashion
-![[Pasted image 20241017131846.png]]
+![Pasted image 20241017131846](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/Pasted%20image%2020241017131846.png)
 ### Properties
 - They have **high** melting and boiling points
 - The **greater** the *charge* on the ions, the **stronger** the *electrostatic forces* and the **higher** the *melting point* will be
@@ -26,7 +39,7 @@ $$Mg^{2+} + O^{2-} \to MgO$$
 - Covalently bonded substances may consist of small molecules or giant molecules
 - When two or more atoms are **covalently** bonded together, we describe them as ‘**molecules**’
 
-![[Pasted image 20241017133343.png]]
+![Pasted image 20241017133343](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/Pasted%20image%2020241017133343.png)
 ### Examples
 $H_{2}O$
 $CH_{4}$
@@ -39,7 +52,7 @@ $H_{2} \ O_{2} \ Cl_{2}$ - *single bond*
 - Within the metal lattice, the atoms lose their outer electrons and become positively charged metal **ions**
     - The outer electrons no longer belong to any specific metal atom and are said to be **delocalised**
     - This means they can move freely between the positive metal ions and act like a _“sea of electrons”_
-![[Pasted image 20241017133841.png]]
+![Pasted image 20241017133841](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/Pasted%20image%2020241017133841.png)
 ### Properties
 
 - **high melting and boiling points** 

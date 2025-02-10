@@ -1,3 +1,16 @@
+---
+title: Matter
+slug: matter
+cover: ""
+categories:
+  - Chemistry
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 5643898d-f2ec-416c-bd94-c41dd0925295
+  publish: true
+---
 ### definitions
 
 > **molecule** is **two or more** atoms held together by ***chemical bonds***
@@ -31,7 +44,7 @@
 
 ### Phase Transition
 
-![[Pasted image 20240826133501.png]]
+![Pasted image 20240826133501](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/Pasted%20image%2020240826133501.png)
  *Vaporisation*: *evaporation* and *boiling*
 
 | *States* | *Shape*  | *Volume* | *Compress* | *Particles*                                                       |

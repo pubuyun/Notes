@@ -1,3 +1,16 @@
+---
+title: s1w09l1 Friction
+slug: s1w09l1-friction
+cover: ""
+categories:
+  - Physics
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 740ec249-1c50-4d63-8efa-207598e21eb2
+  publish: true
+---
 > [!def]
 > Friction is the force that opposes motion between any surfaces that are in contact
 
@@ -18,10 +31,10 @@
 > Air resistance
 > Drag
 
-![[Pasted image 20241024084448.png]]
+![Pasted image 20241024084448](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/Pasted%20image%2020241024084448.png)
 
 
-![[Pasted image 20241022100918.png]]
+![Pasted image 20241022100918](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/Pasted%20image%2020241022100918.png)
 1. The distance travelled after it starts breaking, before it stops.
 2. FALSE
 3. 0.2s-0.4s tiredness, 

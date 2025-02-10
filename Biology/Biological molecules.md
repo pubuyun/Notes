@@ -1,3 +1,16 @@
+---
+title: Biological molecules
+slug: biological-molecules
+cover: ""
+categories:
+  - Biology
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 9a22d834-55bf-40b0-89b3-9f6f3e7f2132
+  publish: true
+---
 ## Carbohydrate
 *elements*: $C$, $H$, $O$
 ### Function
@@ -19,7 +32,7 @@
 
 > [!Starch]
 > for ***Starch***: Reagent used: **Iodine solution** 
-> (*blue black* for positive else *yellow brown*)
+> (*blue black* for positive else *yellow brown*) 
 
 > [!glucose]
 > for ***glucose*/*reducing sugar(还原糖)***: Reagent used: **Benedict's Solution**(copper (II) sulphate and the Cu2+ ions)  with **HEAT**
@@ -66,7 +79,7 @@ Fat and oil are *insoluble*
 
 > [!Vitamin C]
 > Reagent used: DCPIP Solution
-> Add food juice into DCPIIP
+> Add food juice into DCPIP
 > *Transparent* for Positive and *blue* for Negative
 > 
 > This reaction is a redox reaction: vitamin C (ascorbic acid) is oxidized to [dehydroascorbic acid](https://en.wikipedia.org/wiki/Dehydroascorbic_acid "Dehydroascorbic acid"), and DCPIP is reduced to the colorless compound DCPIPH2

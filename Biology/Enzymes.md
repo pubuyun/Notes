@@ -1,3 +1,16 @@
+---
+title: Enzymes
+slug: enzymes
+cover: ""
+categories:
+  - Biology
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 3e6ba1f4-d425-415e-a4ef-d943af574327
+  publish: true
+---
 ## Enzymes
 > [!def]
 > biological *catalysts*^[catalysts: a substance that *speeds up* a chemical reaction, or *lowers the temperature* or *pressure needed* to start one, *without* itself being consumed during the reaction.]

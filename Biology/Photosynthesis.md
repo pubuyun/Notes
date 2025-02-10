@@ -1,3 +1,16 @@
+---
+title: Photosynthesis
+slug: photosynthesis
+cover: ""
+categories:
+  - Biology
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 747f455b-1485-404c-863d-a5c967561969
+  publish: true
+---
 > [!def] Photosynthesis
 > The process by which plants *synthesize* from *inorganic raw materials* using energy from *sunlight*
 
@@ -38,8 +51,8 @@ $6CO_{2} +6H_{2}O\xrightarrow{\text{Light + Chloroplyll}}\ 6O_{2}+C_{6}H_{12}O_{
 
 
 ### Light
-![[Pasted image 20241113103448.png]]
+![Pasted image 20241113103448](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/Pasted%20image%2020241113103448.png)
 ### CO2
-![[Pasted image 20241113103724.png]]
+![Pasted image 20241113103724](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/Pasted%20image%2020241113103724.png)
 ### Temperature
-![[Pasted image 20241113104243.png]]
+![Pasted image 20241113104243](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/Pasted%20image%2020241113104243.png)

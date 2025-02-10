@@ -1,3 +1,16 @@
+---
+title: Features of organisms
+slug: features-of-organisms
+cover: ""
+categories:
+  - Biology
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: c197d551-80a3-483e-8f84-b0aa95404fb9
+  publish: true
+---
 ## Nutrition
 *-trophic* describes sources of nutrition
 > **Autotrophic**: able to make their own nutrition from inorganic substances
@@ -5,7 +18,7 @@
 
 ## Animal
 --------------
-### Chordata 有脊椎动物
+### Chordata 脊索动物门
 #### Fish
 - *scaly* skin (鳞片)
 - *gills* throughout life (鳃)
@@ -93,14 +106,14 @@
 - seeds are produced in an *ovary*(子房) in the flower.
 ##### Dicotyledons, aka dicots (双子叶植物)
 - seed with two *cotyledons*(两个子叶)
-- *flower petals*(花瓣) in multiples of 4 or 5
+- *flower petals*(花瓣) in multiples of **4 or 5** 
 - *vascular bundles* in the stem in a *ring* (茎内维管束呈环状)
 - *leaf veins*(叶脉) are in network
 - main root and other roots
 
 ##### Monocotyledons, aka monocots (单子叶植物)
 - seeds with one *cotyledon*
-- *flower petals* in multiples of 3
+- *flower petals* in multiples of **3**
 - vascular bundles arranged *randomly* in the stem
 - *leaf veins* are parallel
 - *branching* root
@@ -113,7 +126,7 @@
 | leaf veins       | parrallel        | network             |
 | root             | branching root   | main root and other |
 
-## Protoctist (原生生物) 
+## Protist (原生生物) 
 > - a mixed collection of organisms
 > 	- animal like cells and plant like cells
 > 	- mostly unicellular

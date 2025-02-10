@@ -1,3 +1,16 @@
+---
+title: Atomic Structure
+slug: atomic-structure
+cover: ""
+categories:
+  - Chemistry
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 8c3a9e5e-44b5-4067-87fa-1049df25943e
+  publish: true
+---
 ### proton (质子)
 
 ### neutron (中子)

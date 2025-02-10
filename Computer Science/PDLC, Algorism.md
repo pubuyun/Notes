@@ -1,3 +1,16 @@
+---
+title: PDLC, Algorism
+slug: pdlc-algorism
+cover: ""
+categories:
+  - Computer Science
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 8938a0cb-346f-4037-934e-e139631a1a4f
+  publish: true
+---
 
 ## Analysis
 - The analysis stage of the program development life cycle is to **precisely understand the problem** the program is intended to solve

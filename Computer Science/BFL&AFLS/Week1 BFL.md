@@ -13,7 +13,7 @@ OUTPUT "Perimeter ", 2*(length+width)
 
 
 
-![](image_1.3e829d01.png)
+![](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/image_1.3e829d01.png)
 
 
 -----
@@ -31,7 +31,7 @@ OUTPUT "Temperature in Fahrenheit: ", Fahrenheit
 
 
 
-![](image_2.43547552.png)
+![](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/image_2.43547552.png)
 
 
 

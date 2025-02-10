@@ -1,3 +1,16 @@
+---
+title: s1w02l2 Mass, Volume & Density
+slug: s1w02l2-mass-volume-density
+cover: ""
+categories:
+  - Physics
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: a1454a4e-aaf6-4386-8ef8-584cb484d881
+  publish: true
+---
 
 ## Mass and Weight
 ### Mass
@@ -28,7 +41,7 @@ $V = \frac{\pi h (D^2+d^2+Dd)}{3}$
 
 
 
-![[Pasted image 20240829091247.png]]
+![Pasted image 20240829091247](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/Pasted%20image%2020240829091247.png)
 *1*. it tells me how weigh it is in a specific volume
 *2*. $\rho=\frac{m}{v}$
 *3*. True

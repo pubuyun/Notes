@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8a94f07c8f76a6d7",
+        "id": "e73ace41f8b7e662",
         "type": "tabs",
         "children": [
           {
-            "id": "d87e33dc14b2b631",
+            "id": "1cb4e9e1527147ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Plant Transport.md",
+                "file": "Economics/3.2 Mixed Economy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plant Transport"
-            }
-          },
-          {
-            "id": "c13dea4bd4e70750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Work&Energy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Work&Energy"
+              "title": "3.2 Mixed Economy"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drawing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,57 +172,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "halo:Publish current document to Halo": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c13dea4bd4e70750",
+  "active": "1cb4e9e1527147ed",
   "lastOpenFiles": [
-    "Physics/Untitled.md",
-    "语文/史记.md",
-    "Untitled.md",
-    "语文",
-    "Economics/PED&PES.md",
-    "Economics/Market Equilibrium.md",
-    "Economics/Price.md",
-    "Transpiration.md",
-    "Biology/Plant Transport.md",
-    "Biology/Biological molecules.md",
-    "Chemistry/Seperation.md",
-    "Physics/Work&Energy.md",
-    "Physics/Image/Pasted image 20241112104604.png",
-    "Biology/Cells images/Pasted image 20241113104243.png",
-    "Assessment 4.md",
-    "Biological molecules.pdf",
-    "Biology/Cells images/Pasted image 20241120105157.png",
-    "Biology/Cells images/Pasted image 20241120103359.png",
-    "Biology/Cells images/Pasted image 20241120103055.png",
-    "Biology/Cells images/Pasted image 20241120103040.png",
-    "Biology/Cells images/Pasted image 20241120101844.png",
-    "Biology/Cells images/Pasted image 20241120100332.png",
-    "Chemistry/PDF/Pasted image 20241118090250.png",
-    "Chemistry/PDF/Pasted image 20241118085232.png",
-    "Computer Science/Review Questions.md",
-    "Computer Science/PDLC, Algorism.md",
-    "Computer Science/Definitions.md",
-    "Biology/Leaf Structure.md",
+    "新建 文本文档.txt",
+    "Economics/2.7 PED&PES.md",
+    "Economics/2.6 Market Equilibrium.md",
+    "Economics/2.5 Price.md",
+    "Economics/3.2 Mixed Economy.md",
+    "Economics/3.1 Market Failure.md",
+    "Biology/Diet.md",
+    "Biology/Characteristics of Organism.md",
     "Biology/Cells.md",
-    "Biology/Key Words.md",
+    "Biology/Absorption.md",
+    "Biology/Physical and Chemical Digestion.md",
+    "Biology/Photosynthesis.md",
+    "Biology/Digestive System.md",
+    "Economics/Questions.md",
+    "[[Market.md",
+    "Computer Science/Software.md",
+    "Economics/2.2 Market System.md",
+    "Biology/Assesment2.md",
+    "Biology/Biological molecules.md",
     "Biology/Drawing.md",
     "Biology/Enzymes.md",
     "Biology/Features of organisms.md",
-    "Biology/for revision.md",
-    "Biology/Photosynthesis.md",
-    "Economics/Economic Systems.md",
-    "Mathematics/temp.md",
-    "math.md",
-    "Excalidraw",
+    "Mdmdt主题演示demo.md",
+    "Biology/Key Words.md",
+    "Biology/Transpiration.md",
+    "Biology/Diffusion.md",
+    "Physics/Image/Pasted image 20240905090914.png",
+    "Physics/Image/Pasted image 20241008102724.png",
+    "Physics/Image/Pasted image 20240905090909.png",
+    "Physics/Image/Pasted image 20240903104236.png",
+    "Physics/Image/asted image 20241024084448 1.png",
+    "Physics/Image/Pasted image 20240827095657.png",
+    "Economics/Images/Pasted image 20240903114623.png",
+    "Economics/Images/Pasted image 20240903114611.png",
+    "Economics/Images/Pasted image 20240903114446.png",
+    "Economics/Images/Pasted image 20240903113708.png",
+    "Plant Transport.pdf",
+    "Transpiration.pdf",
+    "Photosynthesis.pdf",
+    "Leaf Structure.pdf",
+    "Biological molecules.pdf",
+    "Chemistry/PDF/3. TS (G1) Atomic structure and Periodic table STUDENTS.pdf",
+    "Chemistry/PDF/OCT Holidays G1 Pack (1).pdf",
+    "Untitled",
     "Review Questions.pdf",
-    "Mathematics",
-    "English/Language and Structural Techniques Help Sheet.130685795 copy (1).pdf",
-    "Computer Science/images",
-    "Computer Science/BFL&AFLS",
-    "Week8 BFL.pdf",
-    "Week8 AFL.pdf",
+    "语文",
     "Untitled.canvas",
     "Economics/Untitled.canvas"
   ]

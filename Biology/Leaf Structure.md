@@ -1,20 +1,34 @@
+---
+title: Leaf Structure
+slug: leaf-structure
+cover: ""
+categories:
+  - Biology
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 433fe3ee-26dc-4421-8614-481fcde2a459
+  publish: true
+---
 ## Structure
-![[Pasted image 20241111152710.png]]
+![Pasted image 20241111152710](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/Pasted%20image%2020241111152710.png)
 ### Mesophyll
 #### Palisade Mesophyll (栅栏状叶肉)
 - Tall, narrow, stacked upright, tightly packed - *maximize* surface area
 - Contain *many* chloroplasts - main function is *photosynthesis*
 - Close to the top of the leaf, so they get plenty of sunlight
+- Large Vacuole - squeeze other to the side
 #### Spongy Mesophyll (海绵状叶肉)
 - Also contain chloroplasts
 - Not as tightly packed with air spaces between them - let CO2 diffuse
 
 ### Cuticle , Upper Epidermis, Lower Epidermis
-*Epidermis* - Outer skin
+*Epidermis* - Outer skin 表皮
 #### Upper Epidermis
 - Tightly packed to avoid water escaping
 - *No* chloroplast, relatively transparent - let light pass through to mesophyll payer
-- Secrete cuticle (分泌角质层)
+- *Secrete cuticle* (分泌角质层)
 
 #### Lower Epidermis
 - openings on the lower epidermis called ***stomata***(pl. *stomata*, s. *stoma*)

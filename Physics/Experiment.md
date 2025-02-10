@@ -1,3 +1,16 @@
+---
+title: Experiment
+slug: experiment
+cover: ""
+categories:
+  - Physics
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 283792ca-3913-4f57-a02c-d0b2a944204c
+  publish: true
+---
 ## Variables
 1. **independent**: *diameter*
 2. **dependent**: *depth* of the hole

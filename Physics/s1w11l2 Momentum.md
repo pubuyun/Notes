@@ -1,3 +1,16 @@
+---
+title: s1w11l2 Momentum
+slug: s1w11l2-momentum
+cover: ""
+categories:
+  - Physics
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 7c34f7b2-aa51-4d78-bca5-6a24d013af94
+  publish: true
+---
 ## Momentum
 $$p = m \cdot v$$
 $$\text{momentum} = \text{mass} \cdot \text{velocity}$$
@@ -24,5 +37,5 @@ $p_{a}=0.5\times-5 = -2.5$
 $p_{b} = p-p_{a} = 10+2.5=12.5$
 $v_{b}=\frac{p_{b}}{m_{b}}=\frac{12.5}{8}=1.56\  m\cdot s^{-1}$
 
-x
+
 

@@ -9,7 +9,7 @@ num = int(input("Input a number: "))
 print("Odd" if num%2 else "Even")
 ```
 
-![](image_1.eec8c2dd.png)
+![](https://pu6uyun-image.oss-cn-hongkong.aliyuncs.com/image_1.eec8c2dd.png)
 
 
 

@@ -1,10 +1,22 @@
+---
+title: Mdmdt主题演示demo
+slug: mdmdtzhu-ti-yan-shi-demo
+cover: ""
+categories: []
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 8d4669fa-ec1b-4ab2-8933-fcaaa1da8c06
+  publish: true
+---
 # 关于Mdmdt主题
 
 [English Document](./readme.md)
 
 **Mdmdt** 是markdown minimalism document theme 的缩写，意为：**Markdown极简文档主题**。
 **Mdmdt**[^1]是深度定制的个性化Typora主题，其目的是打造一个**清爽极简**的文档样式。
-> [!NOte]
+> [!note]
 >
 > **注意：**mdmdd.css 文件中包含了亮色和暗色两者主题，会跟随系统模式自动切换亮暗主题 `this is code style`
 
@@ -25,7 +37,7 @@ $$ LATEX: \sum_0^{\infty} x^2+1$$
 - This is Item 1.
 - This is Item 2. 
 - [ ] Something is Not TODO.
-- [ ] Something is DONE.
+- [x] Something is DONE.
 ---
 
 1. 这是有序列表 A

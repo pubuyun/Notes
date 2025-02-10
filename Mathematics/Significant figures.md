@@ -1,3 +1,16 @@
+---
+title: Significant figures
+slug: significant-figures
+cover: ""
+categories:
+  - Mathematics
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: b329fdea-22e8-4cbb-b8e0-cb9bc3af0dd4
+  publish: true
+---
 ### How do I know what degree of accuracy to give my answer to?
 - If a question requires your answer to be an **exact value**
     - You can leave it as a **simplified fraction**
