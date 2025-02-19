@@ -30,19 +30,19 @@ energy store, making cell membranes, insulation, protect organs
 ### Source
 meat, fish, egg, beans, nuts
 ### Function
-build new cells , growth, make antibodies, hemoglobin, enzymes, hormones
+build new cells , growth, make antibodies, haemoglobin, enzymes, hormones
 
 ---
 ## Water
 **Solvent**
 
 --- 
-## Fiber
+## Fibrex
 > Keep the *digestive system* work properly
-> Soft foods without fibers do not stimulate the muscles in the intestines(肠道) Peristalsis(蠕动)^[muscle contractions that move food through the digestive system]
+> Soft foods without fibres do not stimulate the muscles in the intestines(肠道) Peristalsis(蠕动)^[muscle contractions that move food through the digestive system]
 > prevents ***constipation***
 #### Source: 
-All plant foods contain fiber: cellulose cell walls. Humans cannot digest cellulose.
+All plant foods contain fibre: cellulose cell walls. Humans cannot digest cellulose.
 wholemeal bread, celery, oats, apple
 
 --- 
@@ -52,7 +52,7 @@ wholemeal bread, celery, oats, apple
 Milk and diary products
 #### Function
 For *bones and teeth*
-for *blood clotting*
+for *blood clotting* (凝血)
 #### Deficiency
 *Brittle* bones and teeth
 *poor* blood clotting

@@ -59,8 +59,7 @@ also helps with *physical* digestion
 
 #### Pancreas
 > Pancreas makes enzymes - *lipase, protease, amylase* that are released into duodenum
-
-*chemical* digestion
+> *chemical* digestion
 ## Absorption
 ---
 > [!def]
@@ -70,8 +69,6 @@ Through *Diffusion*, then *Active Transport*
 #### Small Intestine - ileum
 > between duodenum and large intestine
 > *Absorption* of broken-down nutrients and water into the blood
-
-
 ## Assimilation
 ---
 > [!def]

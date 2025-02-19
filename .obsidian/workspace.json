@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e73ace41f8b7e662",
+        "id": "9e763635371f27f1",
         "type": "tabs",
         "children": [
           {
-            "id": "1cb4e9e1527147ed",
+            "id": "9d1cce19f90be43e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/3.2 Mixed Economy.md",
+                "file": "Computer Science/Translators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2 Mixed Economy"
+              "title": "Translators"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.50016403198242
+    "width": 224.50288009643555
   },
   "right": {
     "id": "81953f31d5670874",
@@ -152,8 +152,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -173,59 +173,59 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "halo:Publish current document to Halo": false,
       "remotely-save:Remotely Save": false,
+      "halo:Publish current document to Halo": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cb4e9e1527147ed",
+  "active": "9d1cce19f90be43e",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
-    "Economics/2.7 PED&PES.md",
-    "Economics/2.6 Market Equilibrium.md",
-    "Economics/2.5 Price.md",
-    "Economics/3.2 Mixed Economy.md",
-    "Economics/3.1 Market Failure.md",
-    "Biology/Diet.md",
-    "Biology/Characteristics of Organism.md",
-    "Biology/Cells.md",
+    "Computer Science/Softwares.md",
+    "Computer Science/Programming languages.md",
+    "Computer Science/Review Questions.md",
+    "Computer Science/Translators.md",
+    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/operating system/managing memory.md",
+    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/operating system/Managing peripherals and drivers.md",
+    "Computer Science/chapter 4/programming language cont.md",
+    "Computer Science/chapter 4/computer language.md",
+    "Biology/Blood Vessels.md",
+    "Pasted image 20250219103848.png",
+    "Biology/Animal Transport system.md",
     "Biology/Absorption.md",
-    "Biology/Physical and Chemical Digestion.md",
-    "Biology/Photosynthesis.md",
-    "Biology/Digestive System.md",
-    "Economics/Questions.md",
-    "[[Market.md",
+    "Economics/Data conclusion.md",
+    "a9e721c9e6317aa45153333ec8517d6.png",
+    "Pasted image 20250217152057.png",
+    "Pasted image 20250217145326.png",
+    "Pasted image 20250217145324.png",
+    "Economics/3.3 Problems of Intervention.md",
+    "Economics/2.6 Market Equilibrium.md",
+    "Economics/3.1 Market Failure.md",
+    "Economics/2.7 PED&PES.md",
+    "Economics/2.5 Price.md",
+    "Economics/2.4 Supply.md",
+    "Computer Science/images/截屏2025-02-16 18.04.00.png",
+    "Computer Science/images/截屏2025-02-16 18.04.14.png",
+    "Computer Science/images/截屏2025-02-16 18.03.11.png",
+    "Computer Science/images/截屏2025-02-16 18.02.57.png",
+    "Computer Science/images/截屏2025-02-16 18.02.07.png",
+    "Computer Science/operation system.md",
+    "Computer Science/Definitions.md",
+    "Computer Science/Operating System.md",
     "Computer Science/Software.md",
-    "Economics/2.2 Market System.md",
-    "Biology/Assesment2.md",
-    "Biology/Biological molecules.md",
-    "Biology/Drawing.md",
-    "Biology/Enzymes.md",
-    "Biology/Features of organisms.md",
-    "Mdmdt主题演示demo.md",
-    "Biology/Key Words.md",
-    "Biology/Transpiration.md",
-    "Biology/Diffusion.md",
-    "Physics/Image/Pasted image 20240905090914.png",
-    "Physics/Image/Pasted image 20241008102724.png",
-    "Physics/Image/Pasted image 20240905090909.png",
-    "Physics/Image/Pasted image 20240903104236.png",
-    "Physics/Image/asted image 20241024084448 1.png",
-    "Physics/Image/Pasted image 20240827095657.png",
-    "Economics/Images/Pasted image 20240903114623.png",
-    "Economics/Images/Pasted image 20240903114611.png",
-    "Economics/Images/Pasted image 20240903114446.png",
-    "Economics/Images/Pasted image 20240903113708.png",
-    "Plant Transport.pdf",
-    "Transpiration.pdf",
-    "Photosynthesis.pdf",
-    "Leaf Structure.pdf",
-    "Biological molecules.pdf",
-    "Chemistry/PDF/3. TS (G1) Atomic structure and Periodic table STUDENTS.pdf",
-    "Chemistry/PDF/OCT Holidays G1 Pack (1).pdf",
-    "Untitled",
-    "Review Questions.pdf",
-    "语文",
+    "Computer Science/Types of programming languages.md",
+    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/operating system/firmware.md",
+    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/operating system/GUI_CLI.md",
+    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/operating system/Managing multitasking.md",
+    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/utility",
+    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/operating system",
+    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software",
+    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software",
+    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer",
+    "Computer Science/chapter 4/types of software and buffer interrupt 1",
+    "Computer Science/chapter 4/progamming language cont",
+    "Computer Science/chapter 4/computer language",
+    "Computer Science/chapter 4",
+    "Biology/Sem1",
     "Untitled.canvas",
     "Economics/Untitled.canvas"
   ]
