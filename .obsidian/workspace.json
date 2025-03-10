@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9e763635371f27f1",
+        "id": "31a1712d64df90ff",
         "type": "tabs",
         "children": [
           {
-            "id": "9d1cce19f90be43e",
+            "id": "5eb0cd08f4c7de3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Translators.md",
+                "file": "Economics/Household.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Translators"
+              "title": "Household"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50288009643555
+    "width": 217.50288009643555
   },
   "right": {
     "id": "81953f31d5670874",
@@ -152,8 +152,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,44 +177,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d1cce19f90be43e",
+  "active": "5eb0cd08f4c7de3a",
   "lastOpenFiles": [
-    "Computer Science/Softwares.md",
-    "Computer Science/Programming languages.md",
-    "Computer Science/Review Questions.md",
-    "Computer Science/Translators.md",
-    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/operating system/managing memory.md",
-    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/operating system/Managing peripherals and drivers.md",
-    "Computer Science/chapter 4/programming language cont.md",
-    "Computer Science/chapter 4/computer language.md",
-    "Biology/Blood Vessels.md",
-    "Pasted image 20250219103848.png",
-    "Biology/Animal Transport system.md",
-    "Biology/Absorption.md",
-    "Economics/Data conclusion.md",
-    "a9e721c9e6317aa45153333ec8517d6.png",
-    "Pasted image 20250217152057.png",
-    "Pasted image 20250217145326.png",
-    "Pasted image 20250217145324.png",
+    "Economics/Money & Bank.md",
+    "Physics/s2w07l1 States of Matter.md",
+    "Physics/s2w06l1 Pressure.md",
+    "Physics/s2w08l1 Specific Heat Capacity.md",
+    "English/Imaginative writing.md",
+    "Economics/Household.md",
     "Economics/3.3 Problems of Intervention.md",
-    "Economics/2.6 Market Equilibrium.md",
-    "Economics/3.1 Market Failure.md",
-    "Economics/2.7 PED&PES.md",
-    "Economics/2.5 Price.md",
-    "Economics/2.4 Supply.md",
-    "Computer Science/images/截屏2025-02-16 18.04.00.png",
-    "Computer Science/images/截屏2025-02-16 18.04.14.png",
-    "Computer Science/images/截屏2025-02-16 18.03.11.png",
-    "Computer Science/images/截屏2025-02-16 18.02.57.png",
-    "Computer Science/images/截屏2025-02-16 18.02.07.png",
-    "Computer Science/operation system.md",
-    "Computer Science/Definitions.md",
-    "Computer Science/Operating System.md",
-    "Computer Science/Software.md",
-    "Computer Science/Types of programming languages.md",
-    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/operating system/firmware.md",
-    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/operating system/GUI_CLI.md",
-    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/operating system/Managing multitasking.md",
+    "English/Language and Structural Techniques Help Sheet.130685795 copy (1).pdf",
+    "Physics/s2w07l2 Kinetic Particle model of matter.md",
+    "Physics/Experiment.md",
+    "Physics/s1w13l1 Moments.md",
+    "Physics/s1w14l1 Energy Resources.md",
+    "Physics/s1w11l2 Momentum.md",
+    "Biology/Physical and Chemical Digestion.md",
+    "Biology/Absorption.md",
+    "Biology/Nutrition.md",
+    "English/Essay.md",
+    "Economics/Government Intervention.md",
+    "Economics/Money and Bank.md",
+    "Biology/Digestive System.md",
+    "Biology/Investigation.md",
+    "Biology/Sem1/Key Words.md",
+    "Biology/Sem1/Biological molecules.md",
+    "Biology/Blood.md",
+    "Pasted image 20250226100521.png",
+    "Biology/Animal Transport system.md",
+    "Economics/Data conclusion.md",
+    "Economics/Images/Pasted image 20250217145324.png",
+    "Economics/Images/96785704ba76f1e8aba8133b5f9d385.png",
+    "Economics/Images/Pasted image 20250217145326.png",
+    "Economics/Images/f0fbb8f8c2d960103a8333bb8bc8a17.png",
+    "Economics/Images/e29a949f6355cc4e84b7a7ab269c20b.png",
+    "Economics/Images/c6ae9c7d8b2d8216068506a87df0902.png",
+    "Economics/Images/ae5fd80ebf3745ce0cffc6150e95063.png",
+    "Economics/Images/96785704ba76f1e8aba8133b5f9d385 1.png",
+    "Economics/Images/d71a081894bf4d0f12166079b4e2ef1.png",
     "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/utility",
     "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/operating system",
     "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software",
@@ -225,7 +224,6 @@
     "Computer Science/chapter 4/progamming language cont",
     "Computer Science/chapter 4/computer language",
     "Computer Science/chapter 4",
-    "Biology/Sem1",
     "Untitled.canvas",
     "Economics/Untitled.canvas"
   ]

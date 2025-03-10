@@ -84,10 +84,10 @@ Through *Diffusion*, then *Active Transport*
 > *Colon* absorbs water and minerals (less than ileum)
 > *Rectum* stores undigested food as feces
 > Egestion happens through the anus
-## Alimentary Canal
+## Alimentary Canal(消化道)
 > A pathway or a track tat food passes through
 > contains *muscles* that can do **peristalsis**
 > Secretes **mucus**(粘液) form *goblet* cells
-## Accessory Organs
+## Accessory Organs(消化附属器官)
 > Food doesn't pass through them
 > they make essential **digestive enzymes**
