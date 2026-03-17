@@ -11,7 +11,7 @@ halo:
   name: 5643898d-f2ec-416c-bd94-c41dd0925295
   publish: true
 ---
-### definitions
+### Definitions
 
 > **molecule** is **two or more** atoms held together by ***chemical bonds***
 
@@ -37,7 +37,7 @@ halo:
 - *B.P.*
 - *Soluble In* $H_2O$
 - *Density*
-- *Color*
+- *Colour*
 - **Chemical**
 - **Flammable**
 - **Corrosive**

@@ -4,21 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "31a1712d64df90ff",
+        "id": "92813a7d969146d8",
         "type": "tabs",
         "children": [
           {
-            "id": "5eb0cd08f4c7de3a",
+            "id": "6f2b0edccc217adf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Household.md",
+                "file": "Biology/4 Biological molecules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Household"
+              "title": "4 Biological molecules"
+            }
+          },
+          {
+            "id": "6e6d21d69d21d639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mdmdt主题演示demo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mdmdt主题演示demo"
+            }
+          },
+          {
+            "id": "29d45c55506bc68a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "59bc053cf423f144",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Biology/CIE IGCSE Syllabus 2026-2028 (2).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CIE IGCSE Syllabus 2026-2028 (2)"
             }
           }
         ]
@@ -44,7 +84,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -53,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Colon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +101,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -78,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50288009643555
+    "width": 200
   },
   "right": {
     "id": "81953f31d5670874",
@@ -161,69 +201,71 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 520.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "halo:发布当前文档到 Halo": false,
       "obsidian-git:Open Git source control": false,
       "remotely-save:Remotely Save": false,
-      "halo:Publish current document to Halo": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5eb0cd08f4c7de3a",
+  "active": "6f2b0edccc217adf",
   "lastOpenFiles": [
-    "Economics/Money & Bank.md",
-    "Physics/s2w07l1 States of Matter.md",
-    "Physics/s2w06l1 Pressure.md",
-    "Physics/s2w08l1 Specific Heat Capacity.md",
-    "English/Imaginative writing.md",
-    "Economics/Household.md",
+    "Biology/3 Molecule Movement.md",
+    "Biology/1.2 Classification.md",
+    "Biology/1.1 Characteristics of Living Organisms.md",
+    "English/EOs/Lit 3 Attitude.md",
+    "English/EOs/Lit 2 Narrator & Halisham.md",
+    "English/EOs/Lit 1 Relationship & Secret.md",
+    "English/EOs/Lit 5 Other Novel Theme.md",
+    "English/EOs/Lit 4 Friendship.md",
+    "Economics/Presentation 5.md",
     "Economics/3.3 Problems of Intervention.md",
-    "English/Language and Structural Techniques Help Sheet.130685795 copy (1).pdf",
-    "Physics/s2w07l2 Kinetic Particle model of matter.md",
-    "Physics/Experiment.md",
-    "Physics/s1w13l1 Moments.md",
-    "Physics/s1w14l1 Energy Resources.md",
-    "Physics/s1w11l2 Momentum.md",
-    "Biology/Physical and Chemical Digestion.md",
-    "Biology/Absorption.md",
-    "Biology/Nutrition.md",
-    "English/Essay.md",
-    "Economics/Government Intervention.md",
-    "Economics/Money and Bank.md",
-    "Biology/Digestive System.md",
-    "Biology/Investigation.md",
-    "Biology/Sem1/Key Words.md",
-    "Biology/Sem1/Biological molecules.md",
-    "Biology/Blood.md",
-    "Pasted image 20250226100521.png",
-    "Biology/Animal Transport system.md",
-    "Economics/Data conclusion.md",
-    "Economics/Images/Pasted image 20250217145324.png",
-    "Economics/Images/96785704ba76f1e8aba8133b5f9d385.png",
-    "Economics/Images/Pasted image 20250217145326.png",
-    "Economics/Images/f0fbb8f8c2d960103a8333bb8bc8a17.png",
-    "Economics/Images/e29a949f6355cc4e84b7a7ab269c20b.png",
-    "Economics/Images/c6ae9c7d8b2d8216068506a87df0902.png",
-    "Economics/Images/ae5fd80ebf3745ce0cffc6150e95063.png",
-    "Economics/Images/96785704ba76f1e8aba8133b5f9d385 1.png",
-    "Economics/Images/d71a081894bf4d0f12166079b4e2ef1.png",
-    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/utility",
-    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software/operating system",
-    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software/system software",
-    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer/software",
-    "Computer Science/chapter 4/types of software and buffer interrupt 1/component of computer",
-    "Computer Science/chapter 4/types of software and buffer interrupt 1",
-    "Computer Science/chapter 4/progamming language cont",
-    "Computer Science/chapter 4/computer language",
-    "Computer Science/chapter 4",
+    "Economics/2.7 PED&PES.md",
+    "Economics/3. Fiscal Policy.md",
+    "Economics/2.1 Micro economics and Macro economics.md",
+    "Economics/2. Government Revenue.md",
+    "Economics/1.2 Factor of production.md",
+    "Economics/1.1 Basic Economic problem.md",
+    "Economics/0. Role of Government.md",
+    "Economics/1. Macroeconomic aims for government.md",
+    "Biology/7.3-7.4 Physical and Chemical Digestion.md",
+    "Biology/Experiment/Key Words.md",
+    "Biology/CIE IGCSE Syllabus 2026-2028 (2).pdf",
+    "Biology/PDF/Biological molecules.pdf",
+    "Biology/14.2 Sense Organs.md",
+    "Biology/14.4 Homeostasis.md",
+    "TODO.md",
+    "Mdmdt主题演示demo.md",
+    "未命名.base",
+    "Problem/phybowl/todo.md",
+    "Biology/19.3 Nutrient Cycles.md",
+    "Problem/phybowl",
+    "Mathematics/Vocabulary Revision list 1.pdf",
+    "Mathematics/MS-G1 Vocabulary Quiz-2.docx.pdf",
+    "Mathematics/NEW Vocabulary Revision List 2.pdf",
+    "Mathematics/MS-G1 Vocabulary Quiz-1.docx.pdf",
+    "English/Story",
+    "Problem/AP/ap25-frq-calculus-bc.pdf",
+    "Biology/images/Pasted image 20250522131735.png",
+    "Biology/images/Pasted image 20250522130916.png",
+    "Biology/images/Pasted image 20250522075830.png",
+    "Biology/images/Pasted image 20250521110158.png",
+    "Biology/images/Pasted image 20250521105247.png",
+    "Biology/images/Onde_cisaillement_impulsion_1d_30_petit.gif",
+    "Biology/images/Pasted image 20250408100403.png",
+    "Pasted image 20250325103127.png",
+    "Biology/images/Pasted image 20250320111620.png",
+    "Biology/images/Pasted image 20250313090312.png",
     "Untitled.canvas",
     "Economics/Untitled.canvas"
   ]

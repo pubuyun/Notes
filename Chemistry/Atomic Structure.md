@@ -11,10 +11,8 @@ halo:
   name: 8c3a9e5e-44b5-4067-87fa-1049df25943e
   publish: true
 ---
-### proton (质子)
-
-### neutron (中子)
-### electron (电子)
+## Atom
+> a central nucleus containing neutrons and protons surrounded by electrons in shells
 
 | Name     | Charge | Mass             | Location        | Role                       |
 | -------- | ------ | ---------------- | --------------- | -------------------------- |
@@ -23,9 +21,9 @@ halo:
 | Electron | -1     | $\frac{1}{2840}$ | Outside Nucleus | responsible for reactivity |
 ## Isotope (同位素)
 > [!Note]
-> **Same** amount of proton, electron
+> **Same** number of proton, electron, but **Different** number of neutron
 > **Same** chemical proprieties
-> 
+
 
 ## Ion
 > [!def]

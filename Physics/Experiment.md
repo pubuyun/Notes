@@ -49,3 +49,6 @@ halo:
 
 
 
+Use plastic bottles for less conduction
+Use a airless gap between the surface and inner layer, to prevent conduction and convection
+Use black for inner layer and shiny silver for outer layer, which can reflect radiation from inside to prevent heat loss.

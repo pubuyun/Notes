@@ -21,3 +21,42 @@ However, after the Inspector points out her responsibility in Eva Smith's death,
  强调了傲慢、自满和无知在社会和全球挑战面前的危险。这些缺陷使伯林成为资本主义失败的象征，促使普里斯特利在《探长来访》中对阶级分化和社会责任进行了更广泛的批判。
  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In source D, The danger of diving are shown in an event, and the event was presented as a first-person account. Characters are presented with the development of the event. Whereas, source E is a persuasive introduction to diving presented in third person, explaining or advertising the tips and cons of diving. Also, source D is more **emotional**, with “my terror grow" and out of my comfort zone,” describing writer’s emotional reaction, and unpredictable nature.
+But in source E, which is more descriptive, “it stretched out for miles,” “its twisted branches and rocky creeks forming a landscape” explains the **beauty of reef**.
+
+There is also similarities in content. Source D illustrates sea as “wide expanse of blue,” and remind "the power and unpredictability of the sea". Similarly, source E mentioned “jagged  razor edges and hidden poisonous creatures,” which also highlights the unknown danger under the sea. Both of them presents the mystery sea with danger.  
+In addition, source D mentioned "early one" and importance of "diving vital compass", implying that full preparation is needed before diving.  
+Equally, "the reef was a place of safety and sanctuary for those who know how to navigate it" was said in source E, also highlighting the importance of experience.  There is a shared focus on navigating safety in both texts.
+
+The main difference in content is that source D is a cautionary account — the beauty of sea is implied by “fish walking and feeding on the coral,” and the danger is highlighted.  
+By contrast, source E is promotional, emphasizing the beauty of the reef and listing some dangers.
+
+
+
+
+
+
+
+

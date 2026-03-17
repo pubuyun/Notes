@@ -1,3 +1,16 @@
+---
+title: s2w07l2 Kinetic Particle model of matter
+slug: s2w07l2-kinetic-particle-model-of-matter
+cover: ""
+categories:
+  - Physics
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: d67b683b-a983-4ec1-a774-99945fcf76ae
+  publish: true
+---
 ## Temperature
 reflects the average [kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy "Kinetic energy") of its constituent particles (atoms or molecules) relative to its center of mass.
 

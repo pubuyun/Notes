@@ -1,0 +1,4 @@
+- [ ] discursive
+- [ ] CS sem1
+- [ ] eng lit aic
+- [ ] 

@@ -1,3 +1,16 @@
+---
+title: s2w06l1 Pressure
+slug: s2w06l1-pressure
+cover: ""
+categories:
+  - Physics
+tags:
+  - G1
+halo:
+  site: https://www.pu6uyun.net
+  name: 65193938-33c6-42c3-ae39-c373932ed18b
+  publish: true
+---
 $$P = \frac{F}{A}$$
 Unit: Pascal - $N\cdot m^{-2}$
 ## Solids

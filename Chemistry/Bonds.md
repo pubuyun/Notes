@@ -17,7 +17,8 @@ halo:
 > - Metal atoms **lose**, non-metal atoms **gain** their *outer electrons* to form ions
 > - The positive and negative ions are held together by strong **electrostatic forces of** **attraction** between **opposite** charges
 ### Ionic bond
-> [!def] The force of attraction hold ionic compounds together
+> [!def] ionic bond 
+> The force of attraction hold ionic compounds together
 ### Examples
 $$Na^+ + Cl^- \to NaCl$$
 $$Mg^{2+} + O^{2-} \to MgO$$
@@ -64,11 +65,12 @@ $H_{2} \ O_{2} \ Cl_{2}$ - *single bond*
     - This is because the atoms are arranged in layers which can slide over each when force is applied
 
 
-| Ionic                                  | Simple (Covalent)                      | Giant (Covalent)                       | Metallic                         |
-| -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------- |
-| Metals and non-metals                  | Non-metals                             | Non-metals                             | Metals                           |
-| Loss and gain of electrons by atoms    | Share pairs of electrons between atoms | Share pairs of electrons between atoms | Outer electrons free to move     |
-| + and - ions formed attract each other | Small groups of atoms held together    | Billions of atoms are held together    | Billions of positive metal ions  |
-| Ionic lattice structure                | A molecular structure                  | Giant covalent lattice structure       | Giant metallic lattice structure |
-| Conduct when *melten*                  | Don't conduct                          | Don't conduct                          | *good* conductivity              |
-| High melting point                     | Low melting point                      | High melting point                     | High melting point               |
+|                          | Ionic                                  | Simple (Covalent)                      | Giant (Covalent)                       | Metallic                         |
+| ------------------------ | -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------- |
+| **Elements bonding**<br> | Metals and non-metals                  | Non-metals                             | Non-metals                             | Metals                           |
+| **Electrons**            | Loss and gain of electrons by atoms    | Share pairs of electrons between atoms | Share pairs of electrons between atoms | Outer electrons free to move     |
+| **How formed**           | + and - ions formed attract each other | Small groups of atoms held together    | Billions of atoms are held together    | Billions of positive metal ions  |
+| **Structure**            | Ionic lattice structure                | A molecular structure                  | Giant covalent lattice structure       | Giant metallic lattice structure |
+| **Conductivity**         | Conduct when *melten*                  | Don't conduct                          | Don't conduct                          | *good* conductivity              |
+| **Melting point**        | High melting point                     | Low melting point                      | High melting point                     | High melting point               |
+	 
